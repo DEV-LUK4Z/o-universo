@@ -42,7 +42,7 @@ footer div a{
         width: 100%;
         height: 50vh;
 
-        background: url("/assets/img/galaxy.jpg");
+        background: url("https://raw.githubusercontent.com/DEV-LUK4Z/o-universo/main/assets/img/galaxy.jpg");
         background-size: 180%;
         background-position: center;
         transition: 0.5s;
